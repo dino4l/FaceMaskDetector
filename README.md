@@ -2,7 +2,7 @@
 Repository is dedicated to face mask detection project using convolutional neural network
 
 
-## Instalation:
+## Usage:
 
 Training your neural network
 
