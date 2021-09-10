@@ -7,7 +7,7 @@ Repository is dedicated to face mask detection project using convolutional neura
 Training your neural network
 
 ```
-> python train_mask_detector.py --dataset 'name of your dataset'
+> python train_mask_detector.py --dataset 'path to the dataset'
 ```
 Detecting mask on image
 
